@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\bin\Debug\Resim_Galerisi.exe.config
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\bin\Debug\Resim_Galerisi.exe
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\bin\Debug\Resim_Galerisi.pdb
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.exe
+C:\Users\User\Desktop\Dersler\C#\Resim_Galerisi\Resim_Galerisi\obj\Debug\Resim_Galerisi.pdb
